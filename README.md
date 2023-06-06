@@ -2,9 +2,12 @@
 An experimental project aiming to summarize longer texts such as whitepapers, publications, and books into lifelike text to speech based soundbites for short-form media
 
 
-## Acknowledgement
+## Acknowledgements
+Here are the other projects that made this possible
+- gptrim 
 
-gptrim 
-bark 
-openAI 
-langchain 
+- bark 
+
+- openAI 
+
+- langchain 
