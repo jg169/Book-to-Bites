@@ -1,13 +1,16 @@
-## Book_to_Bites
+### Book_to_Bites 📚
 An experimental project aiming to summarize longer texts such as whitepapers, publications, and books into lifelike text to speech based soundbites for short-form media
 
-
-## Acknowledgements
+___
+### Acknowledgements 🙏
 Here are the other projects that made this possible
 - gptrim 
 
 - bark 
 
-- openAI 
+- gpt-3.5-turbo
 
 - langchain 
+
+- prompt-optimizer
+
